@@ -6,7 +6,7 @@
 
 ##手机扫描二维码
 
-![image](https://dujianwu123.github.io/Travel_vue/dist/static/image/Travel_vue_SHOW.png)
+![image](https://github.com/dujianwu123/Travel_vue/blob/master/dist/static/image/Travel_vue_SHOW.png)
 
 ##启动打包
 npm install
