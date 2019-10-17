@@ -1,3 +1,13 @@
+#基于VUE的去哪儿首页及地址功能项目
+
+## 此项目开发时的用的仓库是码云，
+
+地址为https://gitee.com/dujianwu123/Travel_vue
+
+##手机扫描二维码
+
+![image](https://dujianwu123.github.io/Travel_vue/dist/static/image/Travel_vue_SHOW.png)
+
 ##启动打包
 npm install
 npm run dev
